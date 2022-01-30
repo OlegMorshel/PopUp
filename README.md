@@ -3,7 +3,7 @@
 This project I did in js marathon.
 
 ```
-It was interesting experience using JS and working with styles. It was an easy task but this view of PopUp is liked by me.
+It was interesting experience using JS and working with styles. <br/>It was an easy task but this view of PopUp is liked by me.
 I have studied **e.preventDefault()** and equipment for working with classes.
 ```
 
